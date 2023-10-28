@@ -1,0 +1,16 @@
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\bin\Debug\21.101_Dereev_Var3.exe.config
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\bin\Debug\21.101_Dereev_Var3.exe
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\bin\Debug\21.101_Dereev_Var3.pdb
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\21.101_Dereev_Var3.csproj.AssemblyReference.cache
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\21.101_Dereev_Var3.csproj.SuggestedBindingRedirects.cache
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\MainWindow.g.cs
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\App.g.cs
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\21.101_Dereev_Var3_MarkupCompile.cache
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\21.101_Dereev_Var3_MarkupCompile.lref
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\MainWindow.baml
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\21.101_Dereev_Var3.g.resources
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\_21._101_Dereev_Var3.Properties.Resources.resources
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\21.101_Dereev_Var3.csproj.GenerateResource.cache
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\21.101_Dereev_Var3.csproj.CoreCompileInputs.cache
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\21.101_Dereev_Var3.exe
+C:\Users\microily\source\repos\21.101_Dereev_Var3\21.101_Dereev_Var3\obj\Debug\21.101_Dereev_Var3.pdb
